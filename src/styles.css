@@ -1,6 +1,5 @@
-/* Adiciona a fonte Poppins ao Tailwind */
-body {
-  font-family: 'Poppins', sans-serif;
-}
-
 /* Estilos personalizados (se necessário) */
+/* Exemplo: */
+.custom-bg {
+  background-color: #f0f4f8;
+}
