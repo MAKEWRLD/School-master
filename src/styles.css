@@ -1,5 +1,6 @@
+/* Adiciona a fonte Poppins ao Tailwind */
 body {
-  font-family: Arial, sans-serif;
-  text-align: center;
-  margin-top: 50px;
+  font-family: 'Poppins', sans-serif;
 }
+
+/* Estilos personalizados (se necessário) */
